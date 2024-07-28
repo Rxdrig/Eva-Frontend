@@ -1,0 +1,28 @@
+footer{
+    height: 50px;
+    background-color: rgb(24, 24, 24);
+    color: white;
+    text-align: center;
+    padding-top: 12px;
+    margin-top: 80px;
+}
+
+
+.gradient-custom {
+    background: #000; /* Color negro */
+    background: -webkit-linear-gradient(to right, rgba(0, 0, 0, 1), rgba(85, 85, 85, 1), rgba(170, 170, 170, 1), rgba(255, 255, 255, 1));
+    background: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(85, 85, 85, 1), rgba(170, 170, 170, 1), rgba(255, 255, 255, 1));
+}
+
+.Destacados {
+    padding: 40px;
+    margin-left: 42%;
+}
+
+#customcard{
+    width: 600px; /* Ajusta el ancho según lo necesites */
+    height: 400px; 
+    max-width: 100%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.521), 0 6px 20px rgba(0, 0, 0, 0.521); /* Sombra */
+}
+
